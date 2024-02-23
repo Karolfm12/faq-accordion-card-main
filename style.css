@@ -42,9 +42,13 @@ p {
   display: none;
 }
 
-ul li:nth-child(3) p {
+.active {
   display: block;
 }
+
+/* ul li:nth-child(3) p {
+  display: block;
+} */
 
 hr {
   margin: 20px 0 20px 0;
